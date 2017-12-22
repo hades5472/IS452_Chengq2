@@ -1,3 +1,12 @@
+This is the data I collected from 58.com, there are about 3500 results.
+However, there are too many data in the export csv file. I did something to 
+The first column means the name of the name of the community.
+The second column means lease formation. For example, whether the owner are going to lease the whole apartment or just one room of it.
+The third column means the name of the property developer. It is extremely importance because the developer directly determines the quality of your finishing materials. 
+The fourth column is the price of the rent every month.
+The fifth column is the area.
+The sixth column shows the number of the rooms and the living room and the bathroom in the apartment.
+
 国美第一城2号院 【整租】朝青板块 3500 41m² 1室1厅1卫
 龙泽苑 【整租】龙泽 3400 35m² 1室1卫
 香江北岸 【整租】望京 3400 40m² 1室1厅1卫
